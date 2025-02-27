@@ -26,6 +26,7 @@ To run the project locally on your machine, follow these steps:
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your_username/corpcomment.git
+   git clone https://github.com/DavidSerranoReyes/Corp-Comment-app
+.git
    cd corpcomment
    ```
